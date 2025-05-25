@@ -1,0 +1,24 @@
+[submodule "focus-flow-gateway-api"]
+	path = focus-flow-gateway-api
+	url = https://github.com/Zatflzzzzz/focus-flow-gateway-api
+[submodule "focus-flow-habit-service-api"]
+	path = focus-flow-habit-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-habit-service-api
+[submodule "focus-flow-task-service-api"]
+	path = focus-flow-task-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-task-service-api
+[submodule "focus-flow-front"]
+	path = focus-flow-front
+	url = https://github.com/Zatflzzzzz/focus-flow-front
+[submodule "courseWork/focus-flow-habit-service-api"]
+	path = courseWork/focus-flow-habit-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-habit-service-api
+[submodule "courseWork/focus-flow-front"]
+	path = courseWork/focus-flow-front
+	url = https://github.com/Zatflzzzzz/focus-flow-front
+[submodule "courseWork/focus-flow-task-service-api"]
+	path = courseWork/focus-flow-task-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-task-service-api
+[submodule "courseWork/focus-flow-gateway-api"]
+	path = courseWork/focus-flow-gateway-api
+	url = https://github.com/Zatflzzzzz/focus-flow-gateway-api
