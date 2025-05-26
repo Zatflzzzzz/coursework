@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focus-flow-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focus-flow-gateway-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focus-flow-habit-service-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focus-flow-task-service-api" vcs="Git" />
+  </component>
+</project>
