@@ -22,3 +22,15 @@
 [submodule "courseWork/focus-flow-gateway-api"]
 	path = courseWork/focus-flow-gateway-api
 	url = https://github.com/Zatflzzzzz/focus-flow-gateway-api
+[submodule "репозитории для микросервисов/focus-flow-habit-service-api"]
+	path = репозитории для микросервисов/focus-flow-habit-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-habit-service-api
+[submodule "репозитории для микросервисов/focus-flow-gateway-api"]
+	path = репозитории для микросервисов/focus-flow-gateway-api
+	url = https://github.com/Zatflzzzzz/focus-flow-gateway-api
+[submodule "репозитории для микросервисов/focus-flow-front"]
+	path = репозитории для микросервисов/focus-flow-front
+	url = https://github.com/Zatflzzzzz/focus-flow-front
+[submodule "репозитории для микросервисов/focus-flow-task-service-api"]
+	path = репозитории для микросервисов/focus-flow-task-service-api
+	url = https://github.com/Zatflzzzzz/focus-flow-task-service-api
